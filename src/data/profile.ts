@@ -12,8 +12,8 @@ export const profile = {
   portfolio: "rahelbelachew.com",
   linkedin: "",
   github: "",
-  cvPath: "/rahel-belachew-cv.pdf",
-  cvFileName: "Rahel-Belachew-CV.pdf",
+  cvPath: "/cv.pdf",
+  cvFileName: "cv.pdf",
 };
 
 export type NavItem = {

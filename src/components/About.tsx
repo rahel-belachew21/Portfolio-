@@ -82,20 +82,20 @@ export default function About() {
             </p>
           </div>
           <a
-            href="/cv.pdf"
+            href="/certificate1.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex w-fit items-center text-sm font-medium text-[var(--accent)] transition hover:opacity-90"
           >
-            View Certificate
+            View Education Qualification Certificate
           </a>
           <a
-            href="/cv.pdf"
+            href="/icpc-certificate.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex w-fit items-center text-sm font-medium text-[var(--accent)] transition hover:opacity-90"
           >
-            View Certificate
+            View ICPC Coding Challenge Certificate
           </a>
         </div>
 
